@@ -1,0 +1,1221 @@
+============================================================
+VIDEO LABELS METADATA
+============================================================
+
+Total Videos: 10803
+Total Classes: 400
+
+============================================================
+CLASS DISTRIBUTION
+============================================================
+
+abseiling: 46 video(s)
+air drumming: 45 video(s)
+answering questions: 13 video(s)
+applauding: 10 video(s)
+applying cream: 13 video(s)
+archery: 45 video(s)
+arm wrestling: 43 video(s)
+arranging flowers: 18 video(s)
+assembling computer: 16 video(s)
+auctioning: 15 video(s)
+baby waking up: 20 video(s)
+baking cookies: 32 video(s)
+balloon blowing: 27 video(s)
+bandaging: 18 video(s)
+barbequing: 41 video(s)
+bartending: 19 video(s)
+beatboxing: 34 video(s)
+bee keeping: 12 video(s)
+belly dancing: 37 video(s)
+bench pressing: 44 video(s)
+bending back: 21 video(s)
+bending metal: 11 video(s)
+biking through snow: 42 video(s)
+blasting sand: 27 video(s)
+blowing glass: 43 video(s)
+blowing leaves: 11 video(s)
+blowing nose: 19 video(s)
+blowing out candles: 47 video(s)
+bobsledding: 21 video(s)
+bookbinding: 35 video(s)
+bouncing on trampoline: 23 video(s)
+bowling: 42 video(s)
+braiding hair: 23 video(s)
+breading or breadcrumbing: 13 video(s)
+breakdancing: 36 video(s)
+brush painting: 17 video(s)
+brushing hair: 33 video(s)
+brushing teeth: 46 video(s)
+building cabinet: 12 video(s)
+building shed: 13 video(s)
+bungee jumping: 42 video(s)
+busking: 33 video(s)
+canoeing or kayaking: 47 video(s)
+capoeira: 44 video(s)
+carrying baby: 19 video(s)
+cartwheeling: 20 video(s)
+carving pumpkin: 22 video(s)
+catching fish: 22 video(s)
+catching or throwing baseball: 27 video(s)
+catching or throwing frisbee: 40 video(s)
+catching or throwing softball: 31 video(s)
+celebrating: 25 video(s)
+changing oil: 24 video(s)
+changing wheel: 14 video(s)
+checking tires: 17 video(s)
+cheerleading: 46 video(s)
+chopping wood: 35 video(s)
+clapping: 15 video(s)
+clay pottery making: 10 video(s)
+clean and jerk: 35 video(s)
+cleaning floor: 32 video(s)
+cleaning gutters: 20 video(s)
+cleaning pool: 13 video(s)
+cleaning shoes: 22 video(s)
+cleaning toilet: 17 video(s)
+cleaning windows: 24 video(s)
+climbing a rope: 12 video(s)
+climbing ladder: 24 video(s)
+climbing tree: 42 video(s)
+contact juggling: 45 video(s)
+cooking chicken: 37 video(s)
+cooking egg: 20 video(s)
+cooking on campfire: 11 video(s)
+cooking sausages: 13 video(s)
+counting money: 21 video(s)
+country line dancing: 41 video(s)
+cracking neck: 11 video(s)
+crawling baby: 46 video(s)
+crossing river: 37 video(s)
+crying: 37 video(s)
+curling hair: 29 video(s)
+cutting nails: 17 video(s)
+cutting pineapple: 24 video(s)
+cutting watermelon: 25 video(s)
+dancing ballet: 46 video(s)
+dancing charleston: 25 video(s)
+dancing gangnam style: 30 video(s)
+dancing macarena: 36 video(s)
+deadlifting: 29 video(s)
+decorating the christmas tree: 19 video(s)
+digging: 11 video(s)
+dining: 24 video(s)
+disc golfing: 19 video(s)
+diving cliff: 42 video(s)
+dodgeball: 21 video(s)
+doing aerobics: 13 video(s)
+doing laundry: 13 video(s)
+doing nails: 33 video(s)
+drawing: 11 video(s)
+dribbling basketball: 34 video(s)
+drinking: 20 video(s)
+drinking beer: 18 video(s)
+drinking shots: 11 video(s)
+driving car: 38 video(s)
+driving tractor: 34 video(s)
+drop kicking: 26 video(s)
+drumming fingers: 11 video(s)
+dunking basketball: 42 video(s)
+dying hair: 38 video(s)
+eating burger: 30 video(s)
+eating cake: 15 video(s)
+eating carrots: 16 video(s)
+eating chips: 25 video(s)
+eating doughnuts: 16 video(s)
+eating hotdog: 18 video(s)
+eating ice cream: 35 video(s)
+eating spaghetti: 46 video(s)
+eating watermelon: 17 video(s)
+egg hunting: 16 video(s)
+exercising arm: 11 video(s)
+exercising with an exercise ball: 12 video(s)
+extinguishing fire: 19 video(s)
+faceplanting: 12 video(s)
+feeding birds: 45 video(s)
+feeding fish: 37 video(s)
+feeding goats: 40 video(s)
+filling eyebrows: 36 video(s)
+finger snapping: 32 video(s)
+fixing hair: 21 video(s)
+flipping pancake: 25 video(s)
+flying kite: 42 video(s)
+folding clothes: 22 video(s)
+folding napkins: 31 video(s)
+folding paper: 30 video(s)
+front raises: 36 video(s)
+frying vegetables: 18 video(s)
+garbage collecting: 13 video(s)
+gargling: 11 video(s)
+getting a haircut: 23 video(s)
+getting a tattoo: 26 video(s)
+giving or receiving award: 36 video(s)
+golf chipping: 24 video(s)
+golf driving: 32 video(s)
+golf putting: 43 video(s)
+grinding meat: 11 video(s)
+grooming dog: 20 video(s)
+grooming horse: 21 video(s)
+gymnastics tumbling: 44 video(s)
+hammer throw: 46 video(s)
+headbanging: 43 video(s)
+headbutting: 22 video(s)
+high jump: 37 video(s)
+high kick: 30 video(s)
+hitting baseball: 42 video(s)
+hockey stop: 14 video(s)
+holding snake: 11 video(s)
+hopscotch: 26 video(s)
+hoverboarding: 13 video(s)
+hugging: 16 video(s)
+hula hooping: 45 video(s)
+hurdling: 22 video(s)
+hurling (sport): 32 video(s)
+ice climbing: 32 video(s)
+ice fishing: 19 video(s)
+ice skating: 44 video(s)
+ironing: 16 video(s)
+javelin throw: 35 video(s)
+jetskiing: 46 video(s)
+jogging: 11 video(s)
+juggling balls: 35 video(s)
+juggling fire: 24 video(s)
+juggling soccer ball: 14 video(s)
+jumping into pool: 44 video(s)
+jumpstyle dancing: 23 video(s)
+kicking field goal: 31 video(s)
+kicking soccer ball: 17 video(s)
+kissing: 16 video(s)
+kitesurfing: 30 video(s)
+knitting: 24 video(s)
+krumping: 23 video(s)
+laughing: 32 video(s)
+laying bricks: 12 video(s)
+long jump: 32 video(s)
+lunge: 27 video(s)
+making a cake: 12 video(s)
+making a sandwich: 12 video(s)
+making bed: 23 video(s)
+making jewelry: 22 video(s)
+making pizza: 44 video(s)
+making snowman: 27 video(s)
+making sushi: 12 video(s)
+making tea: 11 video(s)
+marching: 46 video(s)
+massaging back: 31 video(s)
+massaging feet: 11 video(s)
+massaging legs: 12 video(s)
+massaging person's head: 20 video(s)
+milking cow: 37 video(s)
+mopping floor: 20 video(s)
+motorcycling: 41 video(s)
+moving furniture: 12 video(s)
+mowing lawn: 45 video(s)
+news anchoring: 11 video(s)
+opening bottle: 25 video(s)
+opening present: 32 video(s)
+paragliding: 30 video(s)
+parasailing: 28 video(s)
+parkour: 15 video(s)
+passing American football (in game): 35 video(s)
+passing American football (not in game): 39 video(s)
+peeling apples: 19 video(s)
+peeling potatoes: 12 video(s)
+petting animal (not cat): 28 video(s)
+petting cat: 25 video(s)
+picking fruit: 29 video(s)
+planting trees: 18 video(s)
+plastering: 12 video(s)
+playing accordion: 34 video(s)
+playing badminton: 35 video(s)
+playing bagpipes: 31 video(s)
+playing basketball: 43 video(s)
+playing bass guitar: 43 video(s)
+playing cards: 26 video(s)
+playing cello: 42 video(s)
+playing chess: 29 video(s)
+playing clarinet: 40 video(s)
+playing controller: 17 video(s)
+playing cricket: 30 video(s)
+playing cymbals: 23 video(s)
+playing didgeridoo: 30 video(s)
+playing drums: 34 video(s)
+playing flute: 14 video(s)
+playing guitar: 43 video(s)
+playing harmonica: 39 video(s)
+playing harp: 46 video(s)
+playing ice hockey: 33 video(s)
+playing keyboard: 25 video(s)
+playing kickball: 15 video(s)
+playing monopoly: 23 video(s)
+playing organ: 23 video(s)
+playing paintball: 46 video(s)
+playing piano: 23 video(s)
+playing poker: 33 video(s)
+playing recorder: 42 video(s)
+playing saxophone: 33 video(s)
+playing squash or racquetball: 37 video(s)
+playing tennis: 44 video(s)
+playing trombone: 44 video(s)
+playing trumpet: 38 video(s)
+playing ukulele: 45 video(s)
+playing violin: 44 video(s)
+playing volleyball: 27 video(s)
+playing xylophone: 27 video(s)
+pole vault: 38 video(s)
+presenting weather forecast: 43 video(s)
+pull ups: 42 video(s)
+pumping fist: 40 video(s)
+pumping gas: 16 video(s)
+punching bag: 43 video(s)
+punching person (boxing): 14 video(s)
+push up: 20 video(s)
+pushing car: 42 video(s)
+pushing cart: 47 video(s)
+pushing wheelchair: 14 video(s)
+reading book: 45 video(s)
+reading newspaper: 11 video(s)
+recording music: 11 video(s)
+riding a bike: 14 video(s)
+riding camel: 26 video(s)
+riding elephant: 44 video(s)
+riding mechanical bull: 25 video(s)
+riding mountain bike: 15 video(s)
+riding mule: 15 video(s)
+riding or walking with horse: 45 video(s)
+riding scooter: 22 video(s)
+riding unicycle: 31 video(s)
+ripping paper: 19 video(s)
+robot dancing: 32 video(s)
+rock climbing: 45 video(s)
+rock scissors paper: 11 video(s)
+roller skating: 36 video(s)
+running on treadmill: 11 video(s)
+sailing: 33 video(s)
+salsa dancing: 46 video(s)
+sanding floor: 19 video(s)
+scrambling eggs: 28 video(s)
+scuba diving: 37 video(s)
+setting table: 14 video(s)
+shaking hands: 22 video(s)
+shaking head: 34 video(s)
+sharpening knives: 12 video(s)
+sharpening pencil: 25 video(s)
+shaving head: 34 video(s)
+shaving legs: 15 video(s)
+shearing sheep: 39 video(s)
+shining shoes: 20 video(s)
+shooting basketball: 19 video(s)
+shooting goal (soccer): 9 video(s)
+shot put: 39 video(s)
+shoveling snow: 33 video(s)
+shredding paper: 11 video(s)
+shuffling cards: 28 video(s)
+side kick: 37 video(s)
+sign language interpreting: 12 video(s)
+singing: 46 video(s)
+situp: 30 video(s)
+skateboarding: 44 video(s)
+ski jumping: 41 video(s)
+skiing (not slalom or crosscountry): 45 video(s)
+skiing crosscountry: 15 video(s)
+skiing slalom: 18 video(s)
+skipping rope: 15 video(s)
+skydiving: 15 video(s)
+slacklining: 29 video(s)
+slapping: 13 video(s)
+sled dog racing: 30 video(s)
+smoking: 35 video(s)
+smoking hookah: 28 video(s)
+snatch weight lifting: 37 video(s)
+sneezing: 15 video(s)
+sniffing: 10 video(s)
+snorkeling: 39 video(s)
+snowboarding: 35 video(s)
+snowkiting: 47 video(s)
+snowmobiling: 21 video(s)
+somersaulting: 38 video(s)
+spinning poi: 45 video(s)
+spray painting: 33 video(s)
+spraying: 15 video(s)
+springboard diving: 11 video(s)
+squat: 45 video(s)
+sticking tongue out: 27 video(s)
+stomping grapes: 13 video(s)
+stretching arm: 24 video(s)
+stretching leg: 29 video(s)
+strumming guitar: 13 video(s)
+surfing crowd: 34 video(s)
+surfing water: 28 video(s)
+sweeping floor: 20 video(s)
+swimming backstroke: 43 video(s)
+swimming breast stroke: 32 video(s)
+swimming butterfly stroke: 24 video(s)
+swing dancing: 17 video(s)
+swinging legs: 11 video(s)
+swinging on something: 15 video(s)
+sword fighting: 13 video(s)
+tai chi: 42 video(s)
+taking a shower: 9 video(s)
+tango dancing: 46 video(s)
+tap dancing: 36 video(s)
+tapping guitar: 30 video(s)
+tapping pen: 24 video(s)
+tasting beer: 19 video(s)
+tasting food: 17 video(s)
+testifying: 15 video(s)
+texting: 24 video(s)
+throwing axe: 30 video(s)
+throwing ball: 22 video(s)
+throwing discus: 44 video(s)
+tickling: 17 video(s)
+tobogganing: 47 video(s)
+tossing coin: 14 video(s)
+tossing salad: 14 video(s)
+training dog: 15 video(s)
+trapezing: 29 video(s)
+trimming or shaving beard: 36 video(s)
+trimming trees: 23 video(s)
+triple jump: 30 video(s)
+tying bow tie: 10 video(s)
+tying knot (not on a tie): 30 video(s)
+tying tie: 23 video(s)
+unboxing: 28 video(s)
+unloading truck: 11 video(s)
+using computer: 33 video(s)
+using remote controller (not gaming): 18 video(s)
+using segway: 11 video(s)
+vault: 19 video(s)
+waiting in line: 13 video(s)
+walking the dog: 43 video(s)
+washing dishes: 40 video(s)
+washing feet: 32 video(s)
+washing hair: 11 video(s)
+washing hands: 34 video(s)
+water skiing: 29 video(s)
+water sliding: 11 video(s)
+watering plants: 24 video(s)
+waxing back: 17 video(s)
+waxing chest: 28 video(s)
+waxing eyebrows: 23 video(s)
+waxing legs: 34 video(s)
+weaving basket: 28 video(s)
+welding: 28 video(s)
+whistling: 11 video(s)
+windsurfing: 45 video(s)
+wrapping present: 29 video(s)
+wrestling: 15 video(s)
+writing: 25 video(s)
+yawning: 10 video(s)
+yoga: 38 video(s)
+zumba: 43 video(s)
+
+============================================================
+ALL CLASS NAMES (Alphabetically)
+============================================================
+
+1. abseiling
+2. air drumming
+3. answering questions
+4. applauding
+5. applying cream
+6. archery
+7. arm wrestling
+8. arranging flowers
+9. assembling computer
+10. auctioning
+11. baby waking up
+12. baking cookies
+13. balloon blowing
+14. bandaging
+15. barbequing
+16. bartending
+17. beatboxing
+18. bee keeping
+19. belly dancing
+20. bench pressing
+21. bending back
+22. bending metal
+23. biking through snow
+24. blasting sand
+25. blowing glass
+26. blowing leaves
+27. blowing nose
+28. blowing out candles
+29. bobsledding
+30. bookbinding
+31. bouncing on trampoline
+32. bowling
+33. braiding hair
+34. breading or breadcrumbing
+35. breakdancing
+36. brush painting
+37. brushing hair
+38. brushing teeth
+39. building cabinet
+40. building shed
+41. bungee jumping
+42. busking
+43. canoeing or kayaking
+44. capoeira
+45. carrying baby
+46. cartwheeling
+47. carving pumpkin
+48. catching fish
+49. catching or throwing baseball
+50. catching or throwing frisbee
+51. catching or throwing softball
+52. celebrating
+53. changing oil
+54. changing wheel
+55. checking tires
+56. cheerleading
+57. chopping wood
+58. clapping
+59. clay pottery making
+60. clean and jerk
+61. cleaning floor
+62. cleaning gutters
+63. cleaning pool
+64. cleaning shoes
+65. cleaning toilet
+66. cleaning windows
+67. climbing a rope
+68. climbing ladder
+69. climbing tree
+70. contact juggling
+71. cooking chicken
+72. cooking egg
+73. cooking on campfire
+74. cooking sausages
+75. counting money
+76. country line dancing
+77. cracking neck
+78. crawling baby
+79. crossing river
+80. crying
+81. curling hair
+82. cutting nails
+83. cutting pineapple
+84. cutting watermelon
+85. dancing ballet
+86. dancing charleston
+87. dancing gangnam style
+88. dancing macarena
+89. deadlifting
+90. decorating the christmas tree
+91. digging
+92. dining
+93. disc golfing
+94. diving cliff
+95. dodgeball
+96. doing aerobics
+97. doing laundry
+98. doing nails
+99. drawing
+100. dribbling basketball
+101. drinking
+102. drinking beer
+103. drinking shots
+104. driving car
+105. driving tractor
+106. drop kicking
+107. drumming fingers
+108. dunking basketball
+109. dying hair
+110. eating burger
+111. eating cake
+112. eating carrots
+113. eating chips
+114. eating doughnuts
+115. eating hotdog
+116. eating ice cream
+117. eating spaghetti
+118. eating watermelon
+119. egg hunting
+120. exercising arm
+121. exercising with an exercise ball
+122. extinguishing fire
+123. faceplanting
+124. feeding birds
+125. feeding fish
+126. feeding goats
+127. filling eyebrows
+128. finger snapping
+129. fixing hair
+130. flipping pancake
+131. flying kite
+132. folding clothes
+133. folding napkins
+134. folding paper
+135. front raises
+136. frying vegetables
+137. garbage collecting
+138. gargling
+139. getting a haircut
+140. getting a tattoo
+141. giving or receiving award
+142. golf chipping
+143. golf driving
+144. golf putting
+145. grinding meat
+146. grooming dog
+147. grooming horse
+148. gymnastics tumbling
+149. hammer throw
+150. headbanging
+151. headbutting
+152. high jump
+153. high kick
+154. hitting baseball
+155. hockey stop
+156. holding snake
+157. hopscotch
+158. hoverboarding
+159. hugging
+160. hula hooping
+161. hurdling
+162. hurling (sport)
+163. ice climbing
+164. ice fishing
+165. ice skating
+166. ironing
+167. javelin throw
+168. jetskiing
+169. jogging
+170. juggling balls
+171. juggling fire
+172. juggling soccer ball
+173. jumping into pool
+174. jumpstyle dancing
+175. kicking field goal
+176. kicking soccer ball
+177. kissing
+178. kitesurfing
+179. knitting
+180. krumping
+181. laughing
+182. laying bricks
+183. long jump
+184. lunge
+185. making a cake
+186. making a sandwich
+187. making bed
+188. making jewelry
+189. making pizza
+190. making snowman
+191. making sushi
+192. making tea
+193. marching
+194. massaging back
+195. massaging feet
+196. massaging legs
+197. massaging person's head
+198. milking cow
+199. mopping floor
+200. motorcycling
+201. moving furniture
+202. mowing lawn
+203. news anchoring
+204. opening bottle
+205. opening present
+206. paragliding
+207. parasailing
+208. parkour
+209. passing American football (in game)
+210. passing American football (not in game)
+211. peeling apples
+212. peeling potatoes
+213. petting animal (not cat)
+214. petting cat
+215. picking fruit
+216. planting trees
+217. plastering
+218. playing accordion
+219. playing badminton
+220. playing bagpipes
+221. playing basketball
+222. playing bass guitar
+223. playing cards
+224. playing cello
+225. playing chess
+226. playing clarinet
+227. playing controller
+228. playing cricket
+229. playing cymbals
+230. playing didgeridoo
+231. playing drums
+232. playing flute
+233. playing guitar
+234. playing harmonica
+235. playing harp
+236. playing ice hockey
+237. playing keyboard
+238. playing kickball
+239. playing monopoly
+240. playing organ
+241. playing paintball
+242. playing piano
+243. playing poker
+244. playing recorder
+245. playing saxophone
+246. playing squash or racquetball
+247. playing tennis
+248. playing trombone
+249. playing trumpet
+250. playing ukulele
+251. playing violin
+252. playing volleyball
+253. playing xylophone
+254. pole vault
+255. presenting weather forecast
+256. pull ups
+257. pumping fist
+258. pumping gas
+259. punching bag
+260. punching person (boxing)
+261. push up
+262. pushing car
+263. pushing cart
+264. pushing wheelchair
+265. reading book
+266. reading newspaper
+267. recording music
+268. riding a bike
+269. riding camel
+270. riding elephant
+271. riding mechanical bull
+272. riding mountain bike
+273. riding mule
+274. riding or walking with horse
+275. riding scooter
+276. riding unicycle
+277. ripping paper
+278. robot dancing
+279. rock climbing
+280. rock scissors paper
+281. roller skating
+282. running on treadmill
+283. sailing
+284. salsa dancing
+285. sanding floor
+286. scrambling eggs
+287. scuba diving
+288. setting table
+289. shaking hands
+290. shaking head
+291. sharpening knives
+292. sharpening pencil
+293. shaving head
+294. shaving legs
+295. shearing sheep
+296. shining shoes
+297. shooting basketball
+298. shooting goal (soccer)
+299. shot put
+300. shoveling snow
+301. shredding paper
+302. shuffling cards
+303. side kick
+304. sign language interpreting
+305. singing
+306. situp
+307. skateboarding
+308. ski jumping
+309. skiing (not slalom or crosscountry)
+310. skiing crosscountry
+311. skiing slalom
+312. skipping rope
+313. skydiving
+314. slacklining
+315. slapping
+316. sled dog racing
+317. smoking
+318. smoking hookah
+319. snatch weight lifting
+320. sneezing
+321. sniffing
+322. snorkeling
+323. snowboarding
+324. snowkiting
+325. snowmobiling
+326. somersaulting
+327. spinning poi
+328. spray painting
+329. spraying
+330. springboard diving
+331. squat
+332. sticking tongue out
+333. stomping grapes
+334. stretching arm
+335. stretching leg
+336. strumming guitar
+337. surfing crowd
+338. surfing water
+339. sweeping floor
+340. swimming backstroke
+341. swimming breast stroke
+342. swimming butterfly stroke
+343. swing dancing
+344. swinging legs
+345. swinging on something
+346. sword fighting
+347. tai chi
+348. taking a shower
+349. tango dancing
+350. tap dancing
+351. tapping guitar
+352. tapping pen
+353. tasting beer
+354. tasting food
+355. testifying
+356. texting
+357. throwing axe
+358. throwing ball
+359. throwing discus
+360. tickling
+361. tobogganing
+362. tossing coin
+363. tossing salad
+364. training dog
+365. trapezing
+366. trimming or shaving beard
+367. trimming trees
+368. triple jump
+369. tying bow tie
+370. tying knot (not on a tie)
+371. tying tie
+372. unboxing
+373. unloading truck
+374. using computer
+375. using remote controller (not gaming)
+376. using segway
+377. vault
+378. waiting in line
+379. walking the dog
+380. washing dishes
+381. washing feet
+382. washing hair
+383. washing hands
+384. water skiing
+385. water sliding
+386. watering plants
+387. waxing back
+388. waxing chest
+389. waxing eyebrows
+390. waxing legs
+391. weaving basket
+392. welding
+393. whistling
+394. windsurfing
+395. wrapping present
+396. wrestling
+397. writing
+398. yawning
+399. yoga
+400. zumba
+
+============================================================
+CLASS DISTRIBUTION (By Video Count - Descending)
+============================================================
+
+blowing out candles: 47 video(s)
+tobogganing: 47 video(s)
+snowkiting: 47 video(s)
+canoeing or kayaking: 47 video(s)
+pushing cart: 47 video(s)
+hammer throw: 46 video(s)
+dancing ballet: 46 video(s)
+crawling baby: 46 video(s)
+playing paintball: 46 video(s)
+eating spaghetti: 46 video(s)
+jetskiing: 46 video(s)
+brushing teeth: 46 video(s)
+playing harp: 46 video(s)
+salsa dancing: 46 video(s)
+cheerleading: 46 video(s)
+tango dancing: 46 video(s)
+abseiling: 46 video(s)
+singing: 46 video(s)
+marching: 46 video(s)
+windsurfing: 45 video(s)
+reading book: 45 video(s)
+mowing lawn: 45 video(s)
+playing ukulele: 45 video(s)
+rock climbing: 45 video(s)
+squat: 45 video(s)
+feeding birds: 45 video(s)
+archery: 45 video(s)
+air drumming: 45 video(s)
+contact juggling: 45 video(s)
+hula hooping: 45 video(s)
+riding or walking with horse: 45 video(s)
+spinning poi: 45 video(s)
+skiing (not slalom or crosscountry): 45 video(s)
+playing trombone: 44 video(s)
+playing tennis: 44 video(s)
+throwing discus: 44 video(s)
+jumping into pool: 44 video(s)
+making pizza: 44 video(s)
+skateboarding: 44 video(s)
+riding elephant: 44 video(s)
+ice skating: 44 video(s)
+bench pressing: 44 video(s)
+capoeira: 44 video(s)
+gymnastics tumbling: 44 video(s)
+playing violin: 44 video(s)
+walking the dog: 43 video(s)
+swimming backstroke: 43 video(s)
+zumba: 43 video(s)
+playing bass guitar: 43 video(s)
+presenting weather forecast: 43 video(s)
+headbanging: 43 video(s)
+blowing glass: 43 video(s)
+playing guitar: 43 video(s)
+arm wrestling: 43 video(s)
+golf putting: 43 video(s)
+punching bag: 43 video(s)
+playing basketball: 43 video(s)
+bungee jumping: 42 video(s)
+pushing car: 42 video(s)
+tai chi: 42 video(s)
+bowling: 42 video(s)
+playing cello: 42 video(s)
+hitting baseball: 42 video(s)
+biking through snow: 42 video(s)
+pull ups: 42 video(s)
+flying kite: 42 video(s)
+playing recorder: 42 video(s)
+diving cliff: 42 video(s)
+climbing tree: 42 video(s)
+dunking basketball: 42 video(s)
+country line dancing: 41 video(s)
+motorcycling: 41 video(s)
+barbequing: 41 video(s)
+ski jumping: 41 video(s)
+catching or throwing frisbee: 40 video(s)
+feeding goats: 40 video(s)
+washing dishes: 40 video(s)
+playing clarinet: 40 video(s)
+pumping fist: 40 video(s)
+snorkeling: 39 video(s)
+shot put: 39 video(s)
+playing harmonica: 39 video(s)
+passing American football (not in game): 39 video(s)
+shearing sheep: 39 video(s)
+driving car: 38 video(s)
+dying hair: 38 video(s)
+pole vault: 38 video(s)
+playing trumpet: 38 video(s)
+yoga: 38 video(s)
+somersaulting: 38 video(s)
+side kick: 37 video(s)
+scuba diving: 37 video(s)
+crossing river: 37 video(s)
+crying: 37 video(s)
+milking cow: 37 video(s)
+snatch weight lifting: 37 video(s)
+belly dancing: 37 video(s)
+high jump: 37 video(s)
+feeding fish: 37 video(s)
+cooking chicken: 37 video(s)
+playing squash or racquetball: 37 video(s)
+tap dancing: 36 video(s)
+front raises: 36 video(s)
+breakdancing: 36 video(s)
+trimming or shaving beard: 36 video(s)
+filling eyebrows: 36 video(s)
+dancing macarena: 36 video(s)
+roller skating: 36 video(s)
+giving or receiving award: 36 video(s)
+smoking: 35 video(s)
+passing American football (in game): 35 video(s)
+juggling balls: 35 video(s)
+eating ice cream: 35 video(s)
+clean and jerk: 35 video(s)
+snowboarding: 35 video(s)
+chopping wood: 35 video(s)
+playing badminton: 35 video(s)
+bookbinding: 35 video(s)
+javelin throw: 35 video(s)
+shaking head: 34 video(s)
+shaving head: 34 video(s)
+surfing crowd: 34 video(s)
+playing drums: 34 video(s)
+driving tractor: 34 video(s)
+dribbling basketball: 34 video(s)
+beatboxing: 34 video(s)
+playing accordion: 34 video(s)
+washing hands: 34 video(s)
+waxing legs: 34 video(s)
+busking: 33 video(s)
+playing saxophone: 33 video(s)
+using computer: 33 video(s)
+playing poker: 33 video(s)
+playing ice hockey: 33 video(s)
+shoveling snow: 33 video(s)
+brushing hair: 33 video(s)
+sailing: 33 video(s)
+spray painting: 33 video(s)
+doing nails: 33 video(s)
+robot dancing: 32 video(s)
+long jump: 32 video(s)
+finger snapping: 32 video(s)
+opening present: 32 video(s)
+ice climbing: 32 video(s)
+golf driving: 32 video(s)
+cleaning floor: 32 video(s)
+laughing: 32 video(s)
+baking cookies: 32 video(s)
+swimming breast stroke: 32 video(s)
+hurling (sport): 32 video(s)
+washing feet: 32 video(s)
+playing bagpipes: 31 video(s)
+catching or throwing softball: 31 video(s)
+riding unicycle: 31 video(s)
+folding napkins: 31 video(s)
+massaging back: 31 video(s)
+kicking field goal: 31 video(s)
+tying knot (not on a tie): 30 video(s)
+folding paper: 30 video(s)
+triple jump: 30 video(s)
+throwing axe: 30 video(s)
+eating burger: 30 video(s)
+paragliding: 30 video(s)
+playing cricket: 30 video(s)
+sled dog racing: 30 video(s)
+dancing gangnam style: 30 video(s)
+situp: 30 video(s)
+kitesurfing: 30 video(s)
+tapping guitar: 30 video(s)
+playing didgeridoo: 30 video(s)
+high kick: 30 video(s)
+picking fruit: 29 video(s)
+water skiing: 29 video(s)
+deadlifting: 29 video(s)
+wrapping present: 29 video(s)
+stretching leg: 29 video(s)
+playing chess: 29 video(s)
+slacklining: 29 video(s)
+trapezing: 29 video(s)
+curling hair: 29 video(s)
+petting animal (not cat): 28 video(s)
+waxing chest: 28 video(s)
+scrambling eggs: 28 video(s)
+parasailing: 28 video(s)
+surfing water: 28 video(s)
+weaving basket: 28 video(s)
+welding: 28 video(s)
+smoking hookah: 28 video(s)
+shuffling cards: 28 video(s)
+unboxing: 28 video(s)
+playing xylophone: 27 video(s)
+playing volleyball: 27 video(s)
+blasting sand: 27 video(s)
+catching or throwing baseball: 27 video(s)
+making snowman: 27 video(s)
+balloon blowing: 27 video(s)
+sticking tongue out: 27 video(s)
+lunge: 27 video(s)
+hopscotch: 26 video(s)
+riding camel: 26 video(s)
+playing cards: 26 video(s)
+drop kicking: 26 video(s)
+getting a tattoo: 26 video(s)
+eating chips: 25 video(s)
+dancing charleston: 25 video(s)
+flipping pancake: 25 video(s)
+sharpening pencil: 25 video(s)
+celebrating: 25 video(s)
+petting cat: 25 video(s)
+writing: 25 video(s)
+riding mechanical bull: 25 video(s)
+cutting watermelon: 25 video(s)
+opening bottle: 25 video(s)
+playing keyboard: 25 video(s)
+golf chipping: 24 video(s)
+knitting: 24 video(s)
+texting: 24 video(s)
+watering plants: 24 video(s)
+juggling fire: 24 video(s)
+swimming butterfly stroke: 24 video(s)
+changing oil: 24 video(s)
+dining: 24 video(s)
+climbing ladder: 24 video(s)
+cleaning windows: 24 video(s)
+stretching arm: 24 video(s)
+cutting pineapple: 24 video(s)
+tapping pen: 24 video(s)
+getting a haircut: 23 video(s)
+playing monopoly: 23 video(s)
+playing cymbals: 23 video(s)
+playing piano: 23 video(s)
+tying tie: 23 video(s)
+braiding hair: 23 video(s)
+bouncing on trampoline: 23 video(s)
+krumping: 23 video(s)
+trimming trees: 23 video(s)
+waxing eyebrows: 23 video(s)
+jumpstyle dancing: 23 video(s)
+playing organ: 23 video(s)
+making bed: 23 video(s)
+folding clothes: 22 video(s)
+hurdling: 22 video(s)
+shaking hands: 22 video(s)
+throwing ball: 22 video(s)
+cleaning shoes: 22 video(s)
+carving pumpkin: 22 video(s)
+catching fish: 22 video(s)
+riding scooter: 22 video(s)
+making jewelry: 22 video(s)
+headbutting: 22 video(s)
+counting money: 21 video(s)
+bobsledding: 21 video(s)
+snowmobiling: 21 video(s)
+fixing hair: 21 video(s)
+bending back: 21 video(s)
+dodgeball: 21 video(s)
+grooming horse: 21 video(s)
+cooking egg: 20 video(s)
+shining shoes: 20 video(s)
+sweeping floor: 20 video(s)
+mopping floor: 20 video(s)
+push up: 20 video(s)
+baby waking up: 20 video(s)
+cleaning gutters: 20 video(s)
+drinking: 20 video(s)
+cartwheeling: 20 video(s)
+grooming dog: 20 video(s)
+massaging person's head: 20 video(s)
+ice fishing: 19 video(s)
+carrying baby: 19 video(s)
+tasting beer: 19 video(s)
+peeling apples: 19 video(s)
+bartending: 19 video(s)
+sanding floor: 19 video(s)
+ripping paper: 19 video(s)
+shooting basketball: 19 video(s)
+vault: 19 video(s)
+blowing nose: 19 video(s)
+extinguishing fire: 19 video(s)
+decorating the christmas tree: 19 video(s)
+disc golfing: 19 video(s)
+using remote controller (not gaming): 18 video(s)
+drinking beer: 18 video(s)
+skiing slalom: 18 video(s)
+arranging flowers: 18 video(s)
+frying vegetables: 18 video(s)
+eating hotdog: 18 video(s)
+planting trees: 18 video(s)
+bandaging: 18 video(s)
+playing controller: 17 video(s)
+cleaning toilet: 17 video(s)
+waxing back: 17 video(s)
+brush painting: 17 video(s)
+tasting food: 17 video(s)
+swing dancing: 17 video(s)
+tickling: 17 video(s)
+checking tires: 17 video(s)
+eating watermelon: 17 video(s)
+kicking soccer ball: 17 video(s)
+cutting nails: 17 video(s)
+pumping gas: 16 video(s)
+kissing: 16 video(s)
+egg hunting: 16 video(s)
+hugging: 16 video(s)
+ironing: 16 video(s)
+eating doughnuts: 16 video(s)
+assembling computer: 16 video(s)
+eating carrots: 16 video(s)
+wrestling: 15 video(s)
+clapping: 15 video(s)
+riding mule: 15 video(s)
+skiing crosscountry: 15 video(s)
+swinging on something: 15 video(s)
+testifying: 15 video(s)
+playing kickball: 15 video(s)
+spraying: 15 video(s)
+shaving legs: 15 video(s)
+auctioning: 15 video(s)
+skydiving: 15 video(s)
+training dog: 15 video(s)
+eating cake: 15 video(s)
+parkour: 15 video(s)
+riding mountain bike: 15 video(s)
+skipping rope: 15 video(s)
+sneezing: 15 video(s)
+punching person (boxing): 14 video(s)
+setting table: 14 video(s)
+juggling soccer ball: 14 video(s)
+pushing wheelchair: 14 video(s)
+changing wheel: 14 video(s)
+tossing coin: 14 video(s)
+playing flute: 14 video(s)
+tossing salad: 14 video(s)
+riding a bike: 14 video(s)
+hockey stop: 14 video(s)
+cooking sausages: 13 video(s)
+doing laundry: 13 video(s)
+waiting in line: 13 video(s)
+strumming guitar: 13 video(s)
+hoverboarding: 13 video(s)
+garbage collecting: 13 video(s)
+slapping: 13 video(s)
+answering questions: 13 video(s)
+applying cream: 13 video(s)
+breading or breadcrumbing: 13 video(s)
+cleaning pool: 13 video(s)
+stomping grapes: 13 video(s)
+doing aerobics: 13 video(s)
+sword fighting: 13 video(s)
+building shed: 13 video(s)
+laying bricks: 12 video(s)
+massaging legs: 12 video(s)
+climbing a rope: 12 video(s)
+peeling potatoes: 12 video(s)
+moving furniture: 12 video(s)
+bee keeping: 12 video(s)
+making sushi: 12 video(s)
+faceplanting: 12 video(s)
+sharpening knives: 12 video(s)
+building cabinet: 12 video(s)
+making a cake: 12 video(s)
+making a sandwich: 12 video(s)
+sign language interpreting: 12 video(s)
+exercising with an exercise ball: 12 video(s)
+plastering: 12 video(s)
+drinking shots: 11 video(s)
+jogging: 11 video(s)
+gargling: 11 video(s)
+whistling: 11 video(s)
+holding snake: 11 video(s)
+washing hair: 11 video(s)
+exercising arm: 11 video(s)
+grinding meat: 11 video(s)
+swinging legs: 11 video(s)
+news anchoring: 11 video(s)
+recording music: 11 video(s)
+making tea: 11 video(s)
+water sliding: 11 video(s)
+massaging feet: 11 video(s)
+blowing leaves: 11 video(s)
+drumming fingers: 11 video(s)
+using segway: 11 video(s)
+rock scissors paper: 11 video(s)
+bending metal: 11 video(s)
+cooking on campfire: 11 video(s)
+running on treadmill: 11 video(s)
+cracking neck: 11 video(s)
+unloading truck: 11 video(s)
+drawing: 11 video(s)
+shredding paper: 11 video(s)
+springboard diving: 11 video(s)
+reading newspaper: 11 video(s)
+digging: 11 video(s)
+clay pottery making: 10 video(s)
+sniffing: 10 video(s)
+applauding: 10 video(s)
+yawning: 10 video(s)
+tying bow tie: 10 video(s)
+shooting goal (soccer): 9 video(s)
+taking a shower: 9 video(s)

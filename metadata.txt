@@ -1,0 +1,136 @@
+============================================================
+VIDEO DATASET METADATA
+============================================================
+
+Total Videos: 1000
+Total Classes: 60
+
+============================================================
+CLASS DISTRIBUTION
+============================================================
+
+abseiling: 24 video(s)
+applauding: 5 video(s)
+applying cream: 8 video(s)
+baby waking up: 9 video(s)
+balloon blowing: 17 video(s)
+bandaging: 14 video(s)
+bench pressing: 33 video(s)
+blasting sand: 15 video(s)
+canoeing or kayaking: 25 video(s)
+capoeira: 32 video(s)
+changing oil: 13 video(s)
+changing wheel: 7 video(s)
+cooking on campfire: 5 video(s)
+dancing ballet: 30 video(s)
+dancing charleston: 9 video(s)
+dancing macarena: 18 video(s)
+doing nails: 19 video(s)
+driving car: 19 video(s)
+dunking basketball: 29 video(s)
+feeding goats: 29 video(s)
+fixing hair: 14 video(s)
+frying vegetables: 12 video(s)
+hurdling: 14 video(s)
+javelin throw: 18 video(s)
+jogging: 6 video(s)
+juggling soccer ball: 7 video(s)
+laughing: 21 video(s)
+laying bricks: 9 video(s)
+lunge: 15 video(s)
+making snowman: 20 video(s)
+moving furniture: 9 video(s)
+plastering: 6 video(s)
+playing badminton: 25 video(s)
+playing chess: 18 video(s)
+playing didgeridoo: 17 video(s)
+playing keyboard: 16 video(s)
+playing trombone: 30 video(s)
+playing xylophone: 17 video(s)
+pole vault: 23 video(s)
+pumping fist: 24 video(s)
+pushing wheelchair: 8 video(s)
+riding elephant: 27 video(s)
+riding mountain bike: 10 video(s)
+riding unicycle: 17 video(s)
+ripping paper: 13 video(s)
+sharpening knives: 10 video(s)
+shuffling cards: 17 video(s)
+sign language interpreting: 6 video(s)
+skateboarding: 26 video(s)
+snatch weight lifting: 24 video(s)
+snorkeling: 25 video(s)
+spray painting: 22 video(s)
+squat: 26 video(s)
+swinging legs: 8 video(s)
+tango dancing: 24 video(s)
+trimming or shaving beard: 24 video(s)
+tying bow tie: 5 video(s)
+unloading truck: 7 video(s)
+vault: 13 video(s)
+waiting in line: 7 video(s)
+
+============================================================
+ALL CLASS NAMES (Alphabetically)
+============================================================
+
+1. abseiling
+2. applauding
+3. applying cream
+4. baby waking up
+5. balloon blowing
+6. bandaging
+7. bench pressing
+8. blasting sand
+9. canoeing or kayaking
+10. capoeira
+11. changing oil
+12. changing wheel
+13. cooking on campfire
+14. dancing ballet
+15. dancing charleston
+16. dancing macarena
+17. doing nails
+18. driving car
+19. dunking basketball
+20. feeding goats
+21. fixing hair
+22. frying vegetables
+23. hurdling
+24. javelin throw
+25. jogging
+26. juggling soccer ball
+27. laughing
+28. laying bricks
+29. lunge
+30. making snowman
+31. moving furniture
+32. plastering
+33. playing badminton
+34. playing chess
+35. playing didgeridoo
+36. playing keyboard
+37. playing trombone
+38. playing xylophone
+39. pole vault
+40. pumping fist
+41. pushing wheelchair
+42. riding elephant
+43. riding mountain bike
+44. riding unicycle
+45. ripping paper
+46. sharpening knives
+47. shuffling cards
+48. sign language interpreting
+49. skateboarding
+50. snatch weight lifting
+51. snorkeling
+52. spray painting
+53. squat
+54. swinging legs
+55. tango dancing
+56. trimming or shaving beard
+57. tying bow tie
+58. unloading truck
+59. vault
+60. waiting in line

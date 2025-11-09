@@ -1,0 +1,179 @@
+video_id,filename,predicted_class,twelvelabs_video_id
+134,134.mp4,trapezing,6910bb0e30bf014e82949398
+135,135.mp4,water sliding,6910bb24802978e5ff53cca7
+136,136.mp4,situp,6910bb3e61307028bce7e4d8
+137,137.mp4,using computer,6910bb5461307028bce7e4eb
+138,138.mp4,playing badminton,6910bb69d41255a860ab1f0d
+139,139.mp4,using remote controller (not gaming),6910bb807dd04ca81c9301b5
+140,140.mp4,parasailing,6910bb9bd41255a860ab1f30
+141,141.mp4,using remote controller (not gaming),6910bbbad41255a860ab1f47
+142,142.mp4,tickling,6910bbd3d41255a860ab1f5b
+143,143.mp4,playing trumpet,6910bbf2d41255a860ab1f6e
+144,144.mp4,skateboarding,6910bc117dd04ca81c93021a
+145,145.mp4,shaving legs,6910bc2a802978e5ff53cd70
+146,146.mp4,sign language interpreting,6910bc3f25e5c1f88eb16044
+147,147.mp4,marching,6910bc59802978e5ff53cda2
+148,148.mp4,marching,6910bc76d41255a860ab1fd9
+149,149.mp4,riding scooter,6910bc8f802978e5ff53cde3
+150,150.mp4,"None of the provided categories accurately describe the main action in the video. The video shows a goat inside a cage, which does not fit any of the listed actions. Therefore, I cannot provide a classification from the given options.",6910bcb361307028bce7e624
+151,151.mp4,long jump,6910bccd61307028bce7e63c
+152,152.mp4,making pizza,6910bd2d61307028bce7e691
+153,153.mp4,using computer,6910bd4c61307028bce7e6af
+154,154.mp4,playing badminton,6910bd6bd41255a860ab20c6
+155,155.mp4,dancing,6910bd85d41255a860ab20e1
+156,156.mp4,tying knot (not on a tie),6910bd9fd41255a860ab20f8
+157,157.mp4,making snowman,6910bdb9d41255a860ab2113
+158,158.mp4,tickling,6910bdd27dd04ca81c9303a2
+159,159.mp4,playing trombone,6910bded30bf014e8294961e
+160,160.mp4,presenting weather forecast,6910be06d41255a860ab2159
+161,161.mp4,presenting weather forecast,6910be25d41255a860ab216d
+162,162.mp4,playing badminton,6910be4025e5c1f88eb16206
+163,163.mp4,cooking,6910be5a30bf014e8294967c
+164,164.mp4,using remote controller (not gaming),6910be75802978e5ff53cf8d
+165,165.mp4,shaving legs,6910be8b25e5c1f88eb16230
+166,166.mp4,riding scooter,6910bea4802978e5ff53cfab
+167,167.mp4,situp,6910bebe61307028bce7e7a7
+168,168.mp4,blowing balloon,6910bed430bf014e829496ba
+169,169.mp4,shaking hands,6910beed25e5c1f88eb1626c
+170,170.mp4,marching,6910bf0861307028bce7e7d1
+171,171.mp4,sign language interpreting,6910bf2125e5c1f88eb16286
+172,172.mp4,situp,6910bf3c61307028bce7e7e8
+173,173.mp4,riding unicycle,6910bf55802978e5ff53cff5
+174,174.mp4,riding scooter,6910bf7161307028bce7e7f4
+175,175.mp4,javelin throw,6910bf8b25e5c1f88eb162a0
+176,176.mp4,picking fruit,6910bfa561307028bce7e806
+177,177.mp4,playing cello,6910bfc130bf014e82949707
+178,178.mp4,parasailing,6910bfdb30bf014e8294970b
+179,179.mp4,plastering,6910bff661307028bce7e82e
+180,180.mp4,long jump,6910c01625e5c1f88eb162c5
+181,181.mp4,making pizza,6910c03025e5c1f88eb162cf
+182,182.mp4,playing chess,6910c04a25e5c1f88eb162d8
+183,183.mp4,situp,6910c06930bf014e82949745
+184,184.mp4,playing cello,6910c084802978e5ff53d054
+185,185.mp4,marching,6910c09f802978e5ff53d05f
+186,186.mp4,playing keyboard,6910c0b825e5c1f88eb1630a
+187,187.mp4,trapezing,6910c0d27dd04ca81c930506
+188,188.mp4,capoeira,6910c0e930bf014e82949779
+189,189.mp4,lifting weights,6910c104d41255a860ab2294
+190,190.mp4,situp,6910c11dd41255a860ab22a0
+191,191.mp4,beatboxing,6910c1397dd04ca81c93053a
+192,192.mp4,reading,6910c15325e5c1f88eb1634a
+193,193.mp4,trapezing,6910c16e802978e5ff53d0b8
+194,194.mp4,feeding,6910c18a30bf014e829497b1
+195,195.mp4,trapezing,6910c1a461307028bce7e8d7
+196,196.mp4,spraying paint,6910c1c325e5c1f88eb1636b
+197,197.mp4,long jump,6910c1de61307028bce7e8e6
+198,198.mp4,tying knot (not on a tie),6910c1f5d41255a860ab22ee
+199,199.mp4,tickling,6910c20fd41255a860ab22f7
+200,200.mp4,long jump,6910c22dd41255a860ab2302
+201,201.mp4,situp,6910c24825e5c1f88eb1639a
+202,202.mp4,shining shoes,6910c2617dd04ca81c9305a3
+203,203.mp4,lifting weights,6910c27c7dd04ca81c9305a5
+204,204.mp4,long jump,6910c29725e5c1f88eb163c0
+205,205.mp4,playing chess,6910c2b925e5c1f88eb163cf
+206,206.mp4,shining shoes,6910c2d4d41255a860ab2369
+207,207.mp4,shining shoes,6910c2f025e5c1f88eb16419
+208,208.mp4,situp,6910c30ad41255a860ab239b
+209,209.mp4,skateboarding,6910c32a802978e5ff53d1b5
+210,210.mp4,tying knot (not on a tie),6910c37230bf014e829498e1
+211,211.mp4,shining shoes,6910c39061307028bce7ea10
+212,212.mp4,building a brick wall,6910c3ab25e5c1f88eb164df
+213,213.mp4,parasailing,6910c3c430bf014e82949938
+214,214.mp4,playing basketball,6910c3da61307028bce7ea6a
+215,215.mp4,using remote controller (not gaming),6910c3f961307028bce7ea92
+216,216.mp4,playing badminton,6910c413802978e5ff53d28e
+217,217.mp4,shining shoes,6910c42fd41255a860ab24bd
+218,218.mp4,shining shoes,6910c44961307028bce7eade
+219,219.mp4,marching,6910c46230bf014e829499c1
+220,220.mp4,tying knot (not on a tie),6910c47d25e5c1f88eb165b6
+221,221.mp4,situp,6910c496802978e5ff53d303
+222,222.mp4,tickling,6910c4afd41255a860ab253c
+223,223.mp4,playing trombone,6910c4ca25e5c1f88eb16600
+224,224.mp4,skateboarding,6910c4e0802978e5ff53d342
+225,225.mp4,trapezing,6910c4fbd41255a860ab257a
+226,226.mp4,tickling,6910c51630bf014e82949a5c
+227,227.mp4,parasailing,6910c52f802978e5ff53d38a
+228,228.mp4,tickling,6910c54825e5c1f88eb16672
+229,229.mp4,tickling,6910c562d41255a860ab25dd
+230,230.mp4,situp,6910c5787dd04ca81c930893
+231,231.mp4,bench press,6910c594d41255a860ab2616
+232,232.mp4,situp,6910c5b061307028bce7ec34
+233,233.mp4,tobogganing,6910c5c925e5c1f88eb166ee
+234,234.mp4,trapezing,6910c5de7dd04ca81c9308f0
+235,235.mp4,water sliding,6910c5fad41255a860ab266c
+236,236.mp4,making pizza,6910c6187dd04ca81c930927
+237,237.mp4,making pizza,6910c63230bf014e82949b8e
+238,238.mp4,shaking hands,6910c65125e5c1f88eb16775
+239,239.mp4,tango dancing,6910c67d30bf014e82949bc6
+240,240.mp4,hurdling,6910c69730bf014e82949be3
+241,241.mp4,situp,6910c6b461307028bce7ed1a
+242,242.mp4,riding scooter,6910c6ce802978e5ff53d508
+243,243.mp4,trapezing,6910c6ea61307028bce7ed58
+244,244.mp4,parasailing,6910c7037dd04ca81c930a05
+245,245.mp4,tobogganing,6910c72430bf014e82949c6d
+246,246.mp4,marching,6910c73e802978e5ff53d590
+247,247.mp4,playing keyboard,6910c75a7dd04ca81c930a5c
+248,248.mp4,Lifting weights,6910c77361307028bce7ede6
+249,249.mp4,tickling,6910c78d61307028bce7edfe
+250,250.mp4,pole vaulting,6910c7a7d41255a860ab2823
+251,251.mp4,tickling,6910c7cb30bf014e82949d2d
+252,252.mp4,skateboarding,6910c7e6d41255a860ab286c
+253,253.mp4,playing cello,6910c80030bf014e82949d66
+254,254.mp4,riding unicycle,6910c81b25e5c1f88eb1693f
+255,255.mp4,parasailing,6910c83530bf014e82949d93
+256,256.mp4,shining shoes,6910c84f30bf014e82949daa
+257,257.mp4,kayaking,6910c86961307028bce7eee7
+258,258.mp4,riding unicycle,6910c883802978e5ff53d6e6
+259,259.mp4,situp,6910c89d25e5c1f88eb169d3
+260,260.mp4,playing tennis,6910c8b6d41255a860ab293a
+261,261.mp4,water sliding,6910c8d030bf014e82949e3c
+262,262.mp4,water sliding,6910c8ef7dd04ca81c930c04
+263,263.mp4,sharpening a knife,6910c90a7dd04ca81c930c22
+264,264.mp4,pole vaulting,6910c923d41255a860ab29ae
+265,265.mp4,shaving legs,6910c93e7dd04ca81c930c4b
+266,266.mp4,trapezing,6910c9587dd04ca81c930c5c
+267,267.mp4,shaking hands,6910c9737dd04ca81c930c77
+268,268.mp4,weightlifting,6910c99125e5c1f88eb16aba
+269,269.mp4,marching,6910c9ad61307028bce7f033
+270,270.mp4,driving,6910c9c77dd04ca81c930cbe
+271,271.mp4,water sliding,6910c9de802978e5ff53d830
+272,272.mp4,tickling,6910c9f425e5c1f88eb16b14
+273,273.mp4,playing badminton,6910ca0e30bf014e82949f76
+274,274.mp4,tickling,6910ca2a25e5c1f88eb16b4f
+275,275.mp4,riding or walking with horse,6910ca4461307028bce7f0d5
+276,276.mp4,shining shoes,6910ca9130bf014e82949ff3
+277,277.mp4,observing animals,6910caaa25e5c1f88eb16bcc
+278,278.mp4,tying knot (not on a tie),6910cac4802978e5ff53d920
+279,279.mp4,tango dancing,6910cae061307028bce7f15c
+280,280.mp4,drumming fingers,6910cafb30bf014e8294a04f
+281,281.mp4,shining shoes,6910cb15802978e5ff53d96a
+282,282.mp4,shining shoes,6910cb2ed41255a860ab2b73
+283,283.mp4,tickling,6910cb457dd04ca81c930e02
+284,284.mp4,tickling,6910cb6425e5c1f88eb16c67
+285,285.mp4,tickling,6910cb7e61307028bce7f1df
+286,286.mp4,tickling,6910cb99d41255a860ab2bc3
+287,287.mp4,marching,6910cbb1d41255a860ab2be1
+288,288.mp4,tickling,6910cbd4d41255a860ab2bfb
+289,289.mp4,feeding animals,6910cbf030bf014e8294a123
+290,290.mp4,tickling,6910cc0f25e5c1f88eb16cf6
+291,291.mp4,drumming fingers,6910cc287dd04ca81c930ea6
+292,292.mp4,playing chess,6910cc4125e5c1f88eb16d20
+293,293.mp4,tickling,6910cc5ad41255a860ab2c66
+294,294.mp4,tango dancing,6910cc74802978e5ff53da8e
+295,295.mp4,riding unicycle,6910cc8d802978e5ff53daa6
+296,296.mp4,playing badminton,6910cca761307028bce7f2e1
+297,297.mp4,shining shoes,6910ccc1d41255a860ab2cc4
+298,298.mp4,marching,6910ccddd41255a860ab2cd8
+299,299.mp4,tying knot (not on a tie),6910ccf67dd04ca81c930f6d
+300,300.mp4,tickling,6910cd0c30bf014e8294a22f
+301,301.mp4,tickling,6910cd27d41255a860ab2d24
+302,302.mp4,news anchoring,6910cd42d41255a860ab2d3d
+303,303.mp4,sharpening knife,6910cd5d25e5c1f88eb16e25
+304,304.mp4,hurdling,6910cd76d41255a860ab2d74
+305,305.mp4,situp,6910cd9061307028bce7f3ba
+306,306.mp4,marching,6910cdaa25e5c1f88eb16e68
+307,307.mp4,swimming,6910cdc430bf014e8294a2c9
+308,308.mp4,hurdling,6910cde061307028bce7f410
+309,309.mp4,martial arts moves,6910cdfa25e5c1f88eb16eb6
+310,310.mp4,making pizza,6910ce167dd04ca81c93108c
+311,311.mp4,trapezing,6910ce3161307028bce7f455
