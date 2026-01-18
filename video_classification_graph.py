@@ -1,6 +1,5 @@
 """
-LangGraph Video Classification Orchestrator
-Coordinates multiple video classification models with caching support.
+AURA: Agentic AI for Unified Reliability Modeling and Aggregation
 """
 
 import os
@@ -96,9 +95,7 @@ CLASSIFIERS = {
 }
 
 
-class CacheManager:
-    """Manages cached predictions from CSV files"""
-    
+class CacheManager:    
     def __init__(self, verbose=False):
         self.caches = {}
         self.verbose = verbose
@@ -118,7 +115,6 @@ class CacheManager:
                     print(f"  [WARN] No cache found for {config['name']}")
     
     def _load_cache(self, cache_file: str) -> Dict[str, str]:
-        """Load predictions from a CSV file"""
         cache = {}
         try:
             with open(cache_file, 'r', encoding='utf-8') as f:
@@ -134,7 +130,6 @@ class CacheManager:
         return cache
     
     def get_prediction(self, classifier_id: str, video_filename: str) -> Optional[str]:
-        """Get cached prediction for a video"""
         return self.caches.get(classifier_id, {}).get(video_filename)
 
 
@@ -197,7 +192,6 @@ def load_videos_node(state: GraphState) -> GraphState:
 
 
 def classify_with_gemini_node(state: GraphState) -> GraphState:
-    """Classify with Gemini model"""
     if "gemini" not in state["enabled_classifiers"]:
         return {}  # Return empty dict for disabled classifiers
     
@@ -205,7 +199,6 @@ def classify_with_gemini_node(state: GraphState) -> GraphState:
 
 
 def classify_with_twelvelabs_node(state: GraphState) -> GraphState:
-    """Classify with Twelve Labs model"""
     if "twelvelabs" not in state["enabled_classifiers"]:
         return {}  # Return empty dict for disabled classifiers
     
@@ -213,7 +206,6 @@ def classify_with_twelvelabs_node(state: GraphState) -> GraphState:
 
 
 def classify_with_gpt4o_node(state: GraphState) -> GraphState:
-    """Classify with GPT-4o-mini model"""
     if "gpt4o" not in state["enabled_classifiers"]:
         return {}  # Return empty dict for disabled classifiers
     
@@ -221,7 +213,6 @@ def classify_with_gpt4o_node(state: GraphState) -> GraphState:
 
 
 def classify_with_gpt5mini_node(state: GraphState) -> GraphState:
-    """Classify with GPT-5-mini model"""
     if "gpt5mini" not in state["enabled_classifiers"]:
         return {}  # Return empty dict for disabled classifiers
     
@@ -229,7 +220,6 @@ def classify_with_gpt5mini_node(state: GraphState) -> GraphState:
 
 
 def classify_with_replicate_node(state: GraphState) -> GraphState:
-    """Classify with Replicate model"""
     if "replicate" not in state["enabled_classifiers"]:
         return {}  # Return empty dict for disabled classifiers
     
@@ -237,7 +227,6 @@ def classify_with_replicate_node(state: GraphState) -> GraphState:
 
 
 def classify_with_moondream_node(state: GraphState) -> GraphState:
-    """Classify with MoonDream2 model"""
     if "moondream" not in state["enabled_classifiers"]:
         return {}  # Return empty dict for disabled classifiers
     
@@ -245,7 +234,6 @@ def classify_with_moondream_node(state: GraphState) -> GraphState:
 
 
 def classify_with_qwen_node(state: GraphState) -> GraphState:
-    """Classify with Qwen-VL model"""
     if "qwen" not in state["enabled_classifiers"]:
         return {}  # Return empty dict for disabled classifiers
     
@@ -253,7 +241,6 @@ def classify_with_qwen_node(state: GraphState) -> GraphState:
 
 
 def _classify_with_classifier(state: GraphState, classifier_id: str) -> GraphState:
-    """Generic classifier node implementation"""
     cache_manager = state["cache_manager"]  # Use cache manager from state
     config = CLASSIFIERS[classifier_id]
     videos = state["videos"]
@@ -398,14 +385,6 @@ def ensemble_predictions_node(state: GraphState) -> GraphState:
 
 
 def dawid_skene_node(state: GraphState) -> GraphState:
-    """
-    Dawid-Skene ensemble aggregation node.
-    
-    Uses the Dawid-Skene algorithm to aggregate predictions from multiple classifiers,
-    accounting for varying classifier accuracies and confusion patterns.
-    
-    Saves results to: dawid_skene_predictions.csv
-    """
     print(f"\n{'='*60}")
     print(f"Dawid-Skene Aggregation")
     print(f"{'='*60}")
@@ -576,8 +555,6 @@ def run_classification(
     enabled_classifiers: List[str] = None
 ):
     """
-    Run video classification with LangGraph
-    
     Args:
         start_index: Starting video index (1-based)
         end_index: Ending video index (1-based, None for all)
