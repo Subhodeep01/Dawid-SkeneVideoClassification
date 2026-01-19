@@ -1,25 +1,10 @@
-# Video Classification with LangGraph & Dawid-Skene
+# AURA: Agentic AI for Unified Reliability Modeling and Annotation Aggregation
 
-This project implements video classification using multiple Large Language Model APIs orchestrated through LangGraph, with advanced probabilistic aggregation using the Dawid-Skene algorithm.
-
-## Overview
-
-Classifies 1000 videos across 60 action classes using:
-- **Gemini API** (Google's multimodal LLM) - 93.6% accuracy
-- **GPT-5-mini** (OpenAI) - 93.3% accuracy
-- **Twelve Labs API** (Specialized video understanding) - 86.1% accuracy
-- **GPT-4o-mini** (OpenAI) - 84.7% accuracy
-- **Qwen-VL** (Alibaba Cloud) - 71.8% accuracy
-- **Replicate (LLaVA-13b)** - 64.2% accuracy
-- **MoonDream2** - 5.8% accuracy
-
-**Aggregation Methods:**
-- **Ensemble (Majority Voting)**: 93.60% accuracy
-- **Dawid-Skene (EM Algorithm)**: 93.80% accuracy (best performance)
+This project implements AURA using multiple Large Language Model APIs orchestrated through LangGraph, with advanced probabilistic aggregation.
 
 ## Dataset
 
-- **Available at**: https://drive.google.com/drive/folders/1vBrxPFFwAcHkDc77Tyjwl9cA9acNiusE?usp=sharing
+- **Available at**: 
 - **Total Videos**: 1000 videos
 - **Number of Classes**: 60 action classes
 - **Source**: Kinetics-400 dataset
@@ -32,9 +17,9 @@ The 60 classes include: abseiling, applauding, applying cream, baby waking up, b
 ## Project Structure
 
 ```
-DSforVidClassify/
+AURA/
 ├── video_classification_graph.py     # Main LangGraph orchestrator
-├── dawid_skene.py                     # Dawid-Skene EM algorithm
+├── dawid_skene.py                     # EM algorithm
 ├── metadata.txt                       # Dataset metadata
 ├── .env                               # API keys (NOT in git)
 ├── classifiers/                       # Classifier modules
@@ -62,7 +47,7 @@ DSforVidClassify/
 
 ```bash
 git clone <repository-url>
-cd DSforVidClassify
+cd AURA
 ```
 
 ### 2. Create Virtual Environment
@@ -123,7 +108,7 @@ The main classification system is orchestrated through `video_classification_gra
 - Loads videos from `sampled_videos/` directory
 - Runs classifiers in parallel
 - Uses cached predictions when available
-- Generates ensemble and Dawid-Skene aggregations
+- Generates MAJORITY VOTING and AURA aggregations
 
 #### Basic Usage
 
@@ -208,9 +193,9 @@ evaluation_results/
 └── ... (reports for all classifiers)
 ```
 
-### Visualizing Dawid-Skene Results
+### Visualizing AURA Results
 
-The Dawid-Skene algorithm tracks convergence and estimates annotator (classifier) quality. Visualize these results:
+The algorithm tracks convergence and estimates annotator (classifier) quality. Visualize these results:
 
 #### 1. Generate Annotator Accuracy Heatmaps & Convergence Plots
 
@@ -246,7 +231,7 @@ python evualation_tools/dawid_skene_visualization.py
 python evualation_tools/visualize_classification_report.py
 ```
 
-This generates **per-class performance visualizations** from the Dawid-Skene classification report:
+This generates **per-class performance visualizations** from the classification report:
 
 **Outputs** (in `evaluation_results/visualizations/`):
 - `dawid_skene_per_class_metrics.png` - Bar chart of precision, recall, F1 for all 60 classes
@@ -304,29 +289,13 @@ python evualation_tools/visualize_confusion_matrix.py
 
 - ✅ **LangGraph Orchestration**: Parallel classifier execution with state management
 - ✅ **Intelligent Caching**: Automatically reuses existing predictions
-- ✅ **Dawid-Skene Algorithm**: Probabilistic aggregation with annotator quality estimation
-- ✅ **Ensemble Aggregation**: Majority voting with tie detection
+- ✅ **AEML Algorithm**: Probabilistic aggregation with annotator quality estimation
+- ✅ **Majority Voting Aggregation**: Majority voting with tie detection
 - ✅ **Flexible Processing**: Select video ranges and specific classifiers
 - ✅ **Comprehensive Evaluation**: Accuracy, precision, recall, F1, confusion matrices
 - ✅ **Rich Visualizations**: Heatmaps, convergence plots, per-class metrics
 - ✅ **Error Handling**: Graceful handling of API errors and rate limits
 - ✅ **Resume Support**: Continue from where you left off
-
-## Performance Results
-
-| Method | Accuracy | Type |
-|--------|----------|------|
-| **Dawid-Skene** | **93.80%** | Probabilistic Aggregation (EM) |
-| **Ensemble** | **93.60%** | Majority Voting |
-| Gemini | 93.6% | Single Classifier |
-| GPT-5-mini | 93.3% | Single Classifier |
-| Twelve Labs | 86.1% | Single Classifier |
-| GPT-4o-mini | 84.7% | Single Classifier |
-| Qwen-VL | 71.8% | Single Classifier |
-| Replicate | 64.2% | Single Classifier |
-| MoonDream2 | 5.8% | Single Classifier |
-
-**Key Finding**: Dawid-Skene outperforms simple majority voting by 0.20% by correctly weighting classifier reliability.
 
 ## Requirements
 
@@ -364,17 +333,3 @@ This project is for research and educational purposes.
 - Dataset: Kinetics-400
 - APIs: Google Gemini, OpenAI, Twelve Labs, Alibaba Cloud, Replicate
 - Framework: LangGraph for orchestration
-- Algorithm: Dawid-Skene (Dawid & Skene, 1979)
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@misc{dawidskene_video_classification,
-  title={Video Classification with LangGraph and Dawid-Skene Aggregation},
-  author={Your Name},
-  year={2025},
-  howpublished={\url{https://github.com/yourusername/repo}}
-}
-```
