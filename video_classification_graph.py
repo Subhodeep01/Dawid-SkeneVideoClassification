@@ -13,7 +13,7 @@ import numpy as np
 
 from langgraph.graph import StateGraph, END
 from langchain_core.messages import BaseMessage, HumanMessage
-from dawid_skene import DawidSkene
+from dawid_skene import AemL
 
 
 @dataclass
@@ -384,7 +384,7 @@ def ensemble_predictions_node(state: GraphState) -> GraphState:
     }
 
 
-def dawid_skene_node(state: GraphState) -> GraphState:
+def aeml_node(state: GraphState) -> GraphState:
     print(f"\n{'='*60}")
     print(f"Dawid-Skene Aggregation")
     print(f"{'='*60}")
@@ -431,7 +431,7 @@ def dawid_skene_node(state: GraphState) -> GraphState:
         print(f"  Annotators: {', '.join(annotator_names)}")
         
         # Create and fit Dawid-Skene model
-        model = DawidSkene(max_iterations=100, tolerance=1e-6)
+        model = AemL(max_iterations=100, tolerance=1e-6)
         model.fit(annotations, state["classes"], annotator_names)
         
         # Get predictions with probabilities
@@ -510,7 +510,7 @@ def create_classification_graph():
     workflow.add_node("moondream", classify_with_moondream_node)
     workflow.add_node("qwen", classify_with_qwen_node)
     workflow.add_node("ensemble", ensemble_predictions_node)
-    workflow.add_node("dawid_skene", dawid_skene_node)
+    workflow.add_node("dawid_skene", aeml_node)
     
     # Define edges for PARALLEL execution
     workflow.set_entry_point("load_videos")

@@ -3,7 +3,7 @@ from typing import Dict, List, Tuple
 import csv
 
 
-class DawidSkene:
+class AemL:
     """
     Attributes:
         num_annotators: Number of annotators (classifiers)
@@ -34,7 +34,7 @@ class DawidSkene:
     def fit(self, 
             annotations: Dict[str, Dict[str, str]], 
             classes: List[str],
-            annotator_names: List[str]) -> 'DawidSkene':
+            annotator_names: List[str]) -> 'AemL':
         """     
         Args:
             annotations: Dict mapping item_id -> {annotator_name: label}
@@ -328,7 +328,7 @@ def aggregate_annotations(
     annotator_names: List[str],
     max_iterations: int = 100,
     tolerance: float = 1e-6
-) -> Tuple[Dict[str, str], Dict[str, float], DawidSkene]:
+) -> Tuple[Dict[str, str], Dict[str, float], AemL]:
     """
     Args:
         annotations: Dict mapping item_id -> {annotator_name: label}
@@ -343,7 +343,7 @@ def aggregate_annotations(
         - annotator_accuracies: Dict mapping annotator_name -> accuracy
         - model: Fitted DawidSkene model (for further analysis)
     """
-    model = DawidSkene(max_iterations=max_iterations, tolerance=tolerance)
+    model = AemL(max_iterations=max_iterations, tolerance=tolerance)
     model.fit(annotations, classes, annotator_names)
     
     predictions = model.predict(return_probabilities=False)

@@ -10,7 +10,7 @@ import numpy as np
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 import time
 
-from dawid_skene import DawidSkene
+from dawid_skene import AemL
 from dawid_skene_complement import DawidSkeneComplement
 
 
@@ -140,7 +140,7 @@ def run_comparison():
         print("-" * 100)
         
         start_time = time.time()
-        model_standard = DawidSkene(max_iterations=100, tolerance=1e-6)
+        model_standard = AemL(max_iterations=100, tolerance=1e-6)
         model_standard.fit(annotations, all_classes, config['classifiers'])
         time_standard = time.time() - start_time
         

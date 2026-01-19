@@ -16,7 +16,7 @@ import os
 import time
 from typing import Dict, List, Tuple
 from collections import Counter
-from dawid_skene import DawidSkene
+from dawid_skene import AemL
 import json
 
 
@@ -143,7 +143,7 @@ def dawid_skene_predict(predictions: Dict[str, pd.DataFrame],
                 annotations[video_name][clf_name] = row[clf_name]
     
     # Fit Dawid-Skene model
-    model = DawidSkene(max_iterations=100, tolerance=1e-6)
+    model = AemL(max_iterations=100, tolerance=1e-6)
     model.fit(annotations, all_classes, classifier_subset)
     
     # Get predictions

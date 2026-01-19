@@ -13,10 +13,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 from typing import Dict, List, Tuple
-from dawid_skene import DawidSkene
+from dawid_skene import AemL
 
 
-class DawidSkeneVisualizer(DawidSkene):
+class DawidSkeneVisualizer(AemL):
     """Extended Dawid-Skene class that tracks convergence history."""
     
     def __init__(self, max_iterations=100, tolerance=1e-6):
