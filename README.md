@@ -160,7 +160,7 @@ After running `video_classification_graph.py`, you'll get:
 ```
 predictions/
 ├── ensemble_predictions.csv          # Majority voting results
-├── dawid_skene_predictions.csv       # Dawid-Skene EM results
+├── dawid_skene_predictions.csv       # AEML results
 ├── gemini_predictions.csv             # Individual classifier outputs
 ├── gpt-5-mini_predictions.csv
 ├── twelvelabs_predictions.csv
@@ -252,7 +252,7 @@ method_name = 'Gemini'  # Change this
 python evualation_tools/visualize_confusion_matrix.py
 ```
 
-This generates **confusion matrix visualizations** from the Dawid-Skene confusion matrix:
+This generates **confusion matrix visualizations** from the confusion matrix:
 
 **Outputs** (in `evaluation_results/visualizations/`):
 - `dawid_skene_confusion_matrix_heatmap.png` - Full 60×60 heatmap
@@ -275,7 +275,7 @@ python video_classification_graph.py --start 1 --end 1000
 # Step 2: Evaluate all models
 python evualation_tools/evaluation.py
 
-# Step 3: Visualize Dawid-Skene convergence and annotator quality
+# Step 3: Visualize convergence and annotator quality
 python evualation_tools/dawid_skene_visualization.py
 
 # Step 4: Visualize per-class metrics (precision, recall, F1)
