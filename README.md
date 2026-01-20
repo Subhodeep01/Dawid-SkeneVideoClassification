@@ -4,7 +4,7 @@ This project implements AURA using multiple Large Language Model APIs orchestrat
 
 ## Dataset
 
-- **Available at**: 
+- **Available at**: https://osf.io/2yx5j/overview?view_only=c0dc94aef3e540dda7776e65f297a7b7
 - **Total Videos**: 1000 videos
 - **Number of Classes**: 60 action classes
 - **Source**: Kinetics-400 dataset
